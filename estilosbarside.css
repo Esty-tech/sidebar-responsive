@@ -154,6 +154,15 @@ label #cancel{
 
 }
 
+
+#contenidomodal img{
+    display: block;
+    width: 300px;
+    height: 300px;
+}
+
+
+
 /*EMPIEZA SECCION DE FONDO PRINCIPAL*/
 section{
     background-color: rgb(245, 245, 245)
